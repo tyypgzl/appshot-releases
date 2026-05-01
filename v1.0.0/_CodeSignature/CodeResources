@@ -75,7 +75,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			M0x97J3C+YvFcyz49RSuw9Td11A=
+			bV1+J/nfycHSGd6qdAX79j82vrY=
 			</data>
 			<key>requirement</key>
 			<string>identifier "io.flutter.flutter.app" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Tayyip GUZEL (33U777KDCH)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
